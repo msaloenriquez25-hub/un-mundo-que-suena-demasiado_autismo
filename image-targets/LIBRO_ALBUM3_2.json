@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/LIBRO_ALBUM3_2_luminance.png",
+  "resources": {
+    "originalImage": "LIBRO_ALBUM3_2_original.png",
+    "croppedImage": "LIBRO_ALBUM3_2_cropped.png",
+    "thumbnailImage": "LIBRO_ALBUM3_2_thumbnail.png",
+    "luminanceImage": "LIBRO_ALBUM3_2_luminance.png"
+  },
+  "name": "LIBRO_ALBUM3_2",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 161,
+    "left": 0,
+    "width": 482,
+    "height": 643,
+    "isRotated": true,
+    "originalWidth": 482,
+    "originalHeight": 964
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795437386725,
+  "updated": 1795437386725
+}

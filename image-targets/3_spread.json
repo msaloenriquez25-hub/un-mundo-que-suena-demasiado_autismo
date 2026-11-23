@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/3_spread_luminance.png",
+  "resources": {
+    "originalImage": "3_spread_original.png",
+    "croppedImage": "3_spread_cropped.png",
+    "thumbnailImage": "3_spread_thumbnail.png",
+    "luminanceImage": "3_spread_luminance.png"
+  },
+  "name": "3_spread",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 335,
+    "left": 0,
+    "width": 1004,
+    "height": 1339,
+    "isRotated": true,
+    "originalWidth": 1004,
+    "originalHeight": 2008
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795435463173,
+  "updated": 1795435463173
+}
